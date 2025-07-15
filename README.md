@@ -16,7 +16,7 @@
 
 ## 📸 Preview
 
-![Website Screenshot](./assests/main.png)
+![Website Screenshot](main.png)
 
 ## 🛠️ Tech Stack
 
