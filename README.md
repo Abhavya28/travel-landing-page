@@ -1,23 +1,28 @@
-# 🌍 Travel Landing Page
+# ✈️ Travel Landing Page
 
-A fully responsive travel landing page built using **HTML**, **CSS**, and **JavaScript**.
+> A modern, fully responsive travel website landing page built with **HTML**, **CSS**, and **JavaScript** — perfect for showcasing stunning destinations and capturing user interest.
 
-## 🚀 Features
+---
 
-- Beautiful hero section with CTA
-- Responsive layout for all screen sizes
-- Smooth scrolling & interactive buttons
-- Clean, modern UI
+## 🌟 Features
 
-## 📸 Screenshot
+✅ Clean and modern UI  
+✅ Fully responsive design for all screen sizes  
+✅ Smooth scrolling and hover animations  
+✅ Call-to-action (CTA) section  
+✅ Mobile-friendly navigation
 
-![Website Screenshot](./assets/main.png)
+---
 
+## 📸 Preview
 
-## 📁 Tech Stack
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+![Website Screenshot](./assests/main.png)
+
+## 🛠️ Tech Stack
+
+- 🌐 HTML5  
+- 🎨 CSS3  
+- ⚙️ JavaScript (Vanilla)
 
 
 
