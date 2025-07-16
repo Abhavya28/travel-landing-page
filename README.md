@@ -18,6 +18,10 @@
 
 ![Website Screenshot](main.png)
 
+## 🌐 Live Demo
+
+🔗 [View Live Site](https://abhavya28.github.io/travel-landing-page/)
+
 ## 🛠️ Tech Stack
 
 - 🌐 HTML5  
